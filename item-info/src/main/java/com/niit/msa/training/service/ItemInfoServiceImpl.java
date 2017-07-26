@@ -4,8 +4,6 @@ import java.util.HashMap;
 
 import org.springframework.stereotype.Component;
 
-import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
-
 @Component
 public class ItemInfoServiceImpl implements ItemInfoService{
 	
