@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Virgin Flight Info</string>
+    <string name="bot_name">VirginAustraliaFlightStatus</string>
+    <string name="bot_alias">Demo</string>
+    <string name="identity_id_test">us-east-1:efb2e736-7808-46e0-9806-2732c2ec2602</string>
+    <string name="cognito_region">us-east-1</string>
+    <string name="lex_region">us-east-1</string>
+    <string name="screen_options_main_message">Virgin Australia - Flight Information</string>
+</resources>
